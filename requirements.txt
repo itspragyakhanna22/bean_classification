@@ -1,0 +1,21 @@
+# Core data / ML stack
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+joblib
+bean_utils
+# Needed by pandas.read_excel for Dry_Bean_Dataset.xlsx
+openpyxl
+
+# Section 6: SMOTE / random over- and under-sampling
+imbalanced-learn
+
+# Section 10: classifier app
+streamlit
+
+# To run the notebook
+jupyter
+ipykernel
